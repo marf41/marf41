@@ -24,4 +24,10 @@ Industrial Automation Engineer in Central Europe.
 
 Skilled in Lua, C (mainly embedded - STM32, ESP), PLC, HMI.
 
+Also Go, JS, Forth, Python, Godot's GDscript.
+
+In learning queue: Zig, Rust, TypeScript, Unreal Engine.
+
+In free time, theatre lightning technican (Chamsys MagicQ), and LARPs (props, and playing).
+
 ![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=marf41&layout=compact&theme=gruvbox)
