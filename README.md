@@ -28,6 +28,6 @@ Also Go, JS, Forth, Python, Godot's GDscript.
 
 In learning queue: Zig, Rust, TypeScript, Unreal Engine.
 
-In free time, theatre lightning technican (Chamsys MagicQ), and LARPs (props, and playing).
+In free time, [theatre lightning technican](http://www.teatrsztampa.pl) (Chamsys MagicQ), and [LARPs](https://flyingcaravans.pl) (props, and playing).
 
 ![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=marf41&layout=compact&theme=gruvbox)
