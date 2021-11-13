@@ -1,4 +1,5 @@
-### Hi there 👋
+### Welcome!
+#### Make yourself comfortable
 
 <!--
 **marf41/marf41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+> Perfection is Achieved Not When There Is Nothing More to Add, But When There Is Nothing Left to Take Away. 
+>
+> -- Antoine de Saint-Exupery
+
+Industrial Automation Engineer in Central Europe.
+
+Skilled in Lua, C (mainly embedded - STM32, ESP), PLC, HMI.
+
+![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=marf41&layout=compact&theme=gruvbox)
